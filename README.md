@@ -17,3 +17,5 @@ The attributes are (dontated by Riccardo Leardi, riclea@anchem.unige.it )
 11)Hue
 12)OD280/OD315 of diluted wines
 13)Proline 
+
+Here KMeans, Aggolomerative Hierarchial and DS clustering is done
